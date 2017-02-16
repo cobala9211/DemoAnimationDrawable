@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item
+        android:drawable="@drawable/checkinbonus_glass_70"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/checkinbonus_glass_71"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/checkinbonus_glass_72"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/checkinbonus_glass_73"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/checkinbonus_glass_74"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/checkinbonus_glass_75"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/checkinbonus_glass_76"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/checkinbonus_glass_77"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/checkinbonus_glass_78"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/checkinbonus_glass_79"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/checkinbonus_glass_80"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/checkinbonus_glass_81"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/checkinbonus_glass_82"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/checkinbonus_glass_83"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/checkinbonus_glass_84"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/checkinbonus_glass_85"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/checkinbonus_glass_86"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/checkinbonus_glass_87"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/checkinbonus_glass_88"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/checkinbonus_glass_89"
+        android:duration="50" />
+</animation-list>
